@@ -1,0 +1,8 @@
+@inproceedings{REPO223,
+    author = "Liu, Zhenguang and Feng, Runyang and Chen, Haoming and Wu, Shuang and Gao, Yixing and Gao, Yunjun and Wang, Xiang",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    month = "June",
+    pages = "11006-11016",
+    title = "{Temporal Feature Alignment and Mutual Information Maximization for Video-Based Human Pose Estimation}",
+    year = "2022"
+}
